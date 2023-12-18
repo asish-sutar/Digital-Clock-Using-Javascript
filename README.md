@@ -11,8 +11,7 @@ A simple and stylish digital clock created using HTML, CSS, and JavaScript.
 
 ## Screenshots
 
-<img width="960" alt="image" src="https://github.com/asish-sutar/Digital-Clock-Using-Javascript/assets/114928367/0bd3bcc1-3b4d-498b-bd93-8b4b7e3f7429">
-
+![Digital Clock Screenshot](https://github.com/asish-sutar/Digital-Clock-Using-Javascript/assets/114928367/4fa43350-7f86-4e02-83d6-2cd4812de6e4)
 
 ## Getting Started
 
@@ -38,15 +37,12 @@ Feel free to customize the appearance of the clock by modifying the styles in th
 
 Simply open the `index.html` file in your web browser, and the digital clock will start displaying the current time.
 
-
 ## Author
 
-- [Asish SUtar]
+- [Asish Sutar]
 
 ## Connect with Me
 
 - [GitHub](https://github.com/asish-sutar)
 - [LinkedIn](https://www.linkedin.com/in/asish-sutar-546804193/)
 ```
-
-Replace "your-username" and "Your Name" with your actual GitHub username and your name, respectively. Adjust the acknowledgments, author section, and connect with me section based on your preferences.
