@@ -1,9 +1,6 @@
 ```markdown
 # Digital Clock
 
-![Digital Clock](<img width="960" alt="image" src="https://github.com/asish-sutar/Digital-Clock-Using-Javascript/assets/114928367/96d91197-c944-494c-9bcc-6a973686e198">
-)
-
 A simple and stylish digital clock created using HTML, CSS, and JavaScript.
 
 ## Features
