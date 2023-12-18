@@ -11,7 +11,8 @@ A simple and stylish digital clock created using HTML, CSS, and JavaScript.
 
 ## Screenshots
 
-![Digital Clock Screenshot](https://github.com/asish-sutar/Digital-Clock-Using-Javascript/raw/main/assets/114928367/4fa43350-7f86-4e02-83d6-2cd4812de6e4.png)
+![Digital Clock Screenshot](<img width="960" alt="image" src="https://github.com/asish-sutar/Digital-Clock-Using-Javascript/assets/114928367/de269628-6e18-44c4-959a-4a5a6ab1fad7">
+)
 
 ## Getting Started
 
